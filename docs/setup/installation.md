@@ -10,9 +10,9 @@
 
         ![Open Discover](images/OpenDiscover.png)
 
-    2. Search for `chiaki4deck` in the search bar
+    2. Search for `Chiaki4deck` in the search bar
 
-        ![Install chiaki4deck](images/InstallChiaki4deck.png)
+        ![Install Chiaki4deck](images/InstallChiaki4deck.png)
 
     3. Click Install
 
